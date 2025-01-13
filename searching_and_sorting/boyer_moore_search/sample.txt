@@ -1,0 +1,3 @@
+This is a sample text for searching patterns.
+The pattern we are searching for is 'kfiatek'.
+We will see how efficient the Boyer-Moore algorithm is.
