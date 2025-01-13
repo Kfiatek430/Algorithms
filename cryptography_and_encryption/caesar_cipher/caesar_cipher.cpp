@@ -23,6 +23,7 @@ int main() {
         inputFile.close();
     }
 
+    // Encrypt the text
     for (int i = 0; i < fileContent.size(); i++) {
         char currentChar = fileContent[i];
         if (currentChar > 'Z') currentChar -= 0x20;
